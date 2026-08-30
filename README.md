@@ -6,3 +6,5 @@ Izotope Ozone
 Waves Ultimate
 
 Bertom Denoiser Classic
+
+IZotope RX
