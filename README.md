@@ -8,3 +8,5 @@ Waves Ultimate
 Bertom Denoiser Classic
 
 IZotope RX
+
+ValhallaSpaceModulator
