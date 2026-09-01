@@ -4,9 +4,7 @@ Tune (0, 0) -> EQ (60 hz hpf - male, 110 hz hpf - female, f0 bell attenuation by
 
 MASTER:
 
-Ozone (AI Assistant -> mono bass)
-
-WLM (aim towards -9 LUFS)
+Ozone (AI Assistant -> mono bass, aim towards -9 LUFS)
 
 BЕАТ: 
 
