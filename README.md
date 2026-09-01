@@ -1,4 +1,4 @@
-Tune (0, 0) -> Gate -> EQ (60 hz hpf - male, 110 hz hpf - female, f0 bell attenuation by ear, nothing else)-> Comp (Clean, minimal attack, minimal release, -10 db GR Peak) -> De-essor (Default Settings, Wideband) -> Saturation -> Modulation (10% - 20%) -> Wet
+Tune (0, 0) -> EQ (60 hz hpf - male, 110 hz hpf - female, f0 bell attenuation by ear, nothing else) -> Gate -> Comp (Clean, minimal attack, minimal release, -10 db GR Peak) -> De-essor (Default Settings, Wideband) -> Saturation -> Modulation (10% - 20%) -> Wet
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
