@@ -5,6 +5,4 @@ Izotope Ozone
 
 Waves Ultimate
 
-Bertom Denoiser Classic
-
 Vocal Menace
