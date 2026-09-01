@@ -6,6 +6,8 @@ SUGGESTED VOCAL CHAIN:
 
 Waves Real-Time Tune -> Omni Scheps Channel 2 -> Fabfilter Saturn 2 (optional) -> Vallhala Space Moduler (Preset: Clique, optional) -> Vocal Menace
 
+(!) During active vocal passages, maintain a 70–80 dB SNR by using strictly transparent, non-analog plugins to prevent compression from raising background hiss into the mix
+
 MASTER:
 
 Ozone (AI Assistant -> mono bass, aim towards -9 LUFS)
