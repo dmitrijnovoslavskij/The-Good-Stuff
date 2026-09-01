@@ -8,5 +8,3 @@ Waves Ultimate
 Bertom Denoiser Classic
 
 Vocal Menace
-
-Brainworx Bundle
