@@ -11,4 +11,4 @@ UAD Free Bundle
 
 Brainworx Bundle
 
-Valhalla Space Module
+Valhalla Space Modulator
