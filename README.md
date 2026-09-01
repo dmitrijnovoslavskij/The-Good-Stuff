@@ -10,3 +10,5 @@ Vocal Menace
 UAD Free Bundle
 
 Brainworx Bundle
+
+Valhalla Space Module
