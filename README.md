@@ -20,8 +20,4 @@ Waves Ultimate
 
 Vocal Menace
 
-UAD Free Bundle
-
-Brainworx Bundle
-
 Valhalla Space Modulator
