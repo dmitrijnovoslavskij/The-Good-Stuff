@@ -1,4 +1,4 @@
-Tune -> Gate -> EQ -> Comp -> De-essor -> Saturation -> Modulation -> Wet
+Tune (0, 0) -> Gate -> EQ -> Comp (Clean, minimal attack, minimal release, -10 db GR Peak) -> De-essor (Default Settings, Wideband) -> Saturation -> Modulation (10% - 20%) -> Wet
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
