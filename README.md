@@ -8,7 +8,9 @@ Ozone (AI Assistant -> mono bass)
 
 WLM (aim towards -9 LUFS)
 
-Beat: Pro Q (Natural Phase, Attenuate 2k hz in Mid only)
+BЕАТ: 
+
+Pro Q (Natural Phase, Attenuate 2k hz in Mid only)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
