@@ -7,8 +7,6 @@ The vocal needs sharp 3rd harmonic saturation (Dist 3 / Odd) to slice through an
 Bright Beat / Dense Synths & Cymbals:
 High-end saturation on the vocal is a dealbreaker. Stick to a Clean pass or use dense 2nd harmonic saturation (Dist 2 / Even) to anchor the vocal in the open 200–500 Hz midrange pocket.
 
-(!) During active vocal passages, maintain a 70–80 dB SNR by using strictly transparent, non-analog plugins to prevent compression from raising background hiss into the mix
-
 MASTER:
 
 Ozone (AI Assistant -> mono bass, aim towards -9 LUFS)
