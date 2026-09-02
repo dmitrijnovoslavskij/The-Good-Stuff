@@ -1,6 +1,6 @@
 VOCALS:
 
-Tune (0, 0) -> Gate -> EQ (60 hz hpf, f0 low attenuation by ear, nothing else) -> Comp -> De-essor (Default Settings, split band) -> Modulation (10% - 20%) -> Wet (add Fruity Panomatic on adlibs with Pan LFO)
+Tune (0, 0) -> Gate -> EQ (60 hz hpf, f0 low attenuation by ear, nothing else) -> Comp (-12 db GR peak) -> De-esser (split band) -> Modulation (10% - 20%) -> Wet (add Fruity Panomatic on adlibs with Pan LFO)
 
 MASTER:
 
@@ -21,5 +21,3 @@ Waves Ultimate
 Vocal Menace
 
 Valhalla Space Modulator
-
-Bertom Vocal Compressor
