@@ -4,9 +4,9 @@ tune -> gate -> eq -> comp -> deesser -> wet (send)
 
 MASTER:
 
-God Particle
+God Particle (-9 LUFs)
 
-BЕАТ: 
+Youtube BЕАТ: 
 
 Pro Q (Natural Phase, Attenuate 2k hz in Mid only)
 
