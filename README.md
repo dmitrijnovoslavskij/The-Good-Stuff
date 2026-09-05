@@ -1,6 +1,6 @@
 VOCALS:
 
-Tune (0, 0) -> Gate -> EQ (60 hz hpf, f0 low attenuation by ear, do whatever else you want) -> Compression -> De-esser (split band) -> Add Fruity Panomatic on adlibs with Pan LFO (and sometimes Fast Dist before that) -> Wet Send
+tune -> gate -> eq -> comp -> deesser -> wet (send)
 
 MASTER:
 
@@ -21,3 +21,5 @@ Waves Ultimate
 Vocal Menace
 
 Valhalla Space Modulator
+
+IK Multimedia T-Racks
