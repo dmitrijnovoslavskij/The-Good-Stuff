@@ -4,7 +4,7 @@ tune -> gate -> eq -> comp -> deesser -> wet (send)
 
 MASTER:
 
-Ozone (AI Assistant -> mono bass, aim towards -9 LUFS)
+God Particle
 
 BЕАТ: 
 
