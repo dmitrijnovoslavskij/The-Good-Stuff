@@ -1,6 +1,6 @@
 VOCALS:
 
-tune -> gate -> eq -> comp -> deesser -> wet (send)
+tune -> gate -> eq -> comp -> deesser -> wet
 
 MASTER:
 
