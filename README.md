@@ -1,10 +1,10 @@
 VOCALS:
 
-tune -> gate -> eq -> comp -> deesser -> wet
+tune -> denoiser -> gate -> eq -> comp -> deesser -> wet
 
 MASTER:
 
-God Particle (-9 LUFs)
+Ozone (-9 LUFs, Mono bass)
 
 Youtube BЕАТ: 
 
@@ -21,3 +21,7 @@ Vocal Menace
 IK Multimedia T-Racks
 
 The God Particle
+
+UAD Free
+
+Izotope Ozone
