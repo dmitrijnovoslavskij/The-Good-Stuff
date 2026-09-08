@@ -1,6 +1,6 @@
 VOCALS:
 
-tune -> denoiser -> gate -> eq -> comp -> deesser -> wet
+tune -> denoiser -> gate -> eq -> comp -> deesser -> wet -> eq
 
 MASTER:
 
