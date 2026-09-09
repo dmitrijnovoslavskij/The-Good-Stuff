@@ -1,6 +1,6 @@
 VOCALS:
 
-tune -> denoiser (with hpf) -> ssl channel -> deesser -> wet -> graphic eq
+tune -> denoiser (with hpf) -> ssl channel -> deesser -> wet -> graphic eq (after the tracking is done)
 
 MASTER:
 
