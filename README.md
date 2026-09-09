@@ -5,7 +5,7 @@
 `Pro-Q 3` *(M/S: ~2 kHz dip in Mid for vocals)*
 
 **MASTER:**
-`Pro-Q 3` *(Side HPF 150 Hz)* ➔ `The God Particle`
+`Ozone Imager (under 150 hz mono, recover sides max)` ➔ `The God Particle`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
