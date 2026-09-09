@@ -1,6 +1,6 @@
 VOCALS:
 
-tune -> denoiser (with hpf) -> multiband comp -> deesser -> wet -> eq
+tune -> denoiser (with hpf) -> ssl channel -> deesser -> wet -> graphic eq
 
 MASTER:
 
