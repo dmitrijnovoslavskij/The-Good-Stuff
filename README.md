@@ -1,18 +1,13 @@
-VOCALS:
+**VOCALS:**
+`Tune` ➔ `Denoiser (with HPF)` ➔ `EQ / Pre-amp` ➔ `Comp` ➔ `De-Esser (wide-band)` ➔ `Wet` ➔ `Pro-Q 3 (Natural Phase)`
 
-tune -> denoiser (with hpf) -> eq/pre-amp -> comp -> deesser -> wet (wide-band) -> graphic eq (after the tracking is done)
+**BEAT:**
+`Pro-Q 3` *(M/S: ~2 kHz dip in Mid for vocals)*
 
-MASTER:
+**MASTER (One of two paths):**
 
-Pro Q (hpf 150 hz side only)
-God Particle
-
-Mastering if the beat is from youtube:
-Ozone (-9 LUFs, Mono bass)
-
-Youtube BЕАТ mixing: 
-
-Pro Q (Natural Phase, Attenuate 2k hz in Mid only)
+* **Path 1 (Primary):** `Pro-Q 3` *(Side HPF 150 Hz)* ➔ `The God Particle`
+* **Path 2 (Solo Ozone):** `iZotope Ozone` *(Mono Bass + Maximizer to -9 LUFS)*
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
