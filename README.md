@@ -4,9 +4,13 @@ tune -> denoiser -> gate -> eq -> comp -> deesser -> wet -> eq
 
 MASTER:
 
+Pro Q (hpf 150 hz mid only)
+God Particle
+
+Mastering if the beat is from youtube:
 Ozone (-9 LUFs, Mono bass)
 
-Youtube BЕАТ: 
+Youtube BЕАТ mixing: 
 
 Pro Q (Natural Phase, Attenuate 2k hz in Mid only)
 
