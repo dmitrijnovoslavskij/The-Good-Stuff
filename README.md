@@ -1,5 +1,5 @@
 **VOCALS:**
-`Tune` ➔ `Denoiser (with HPF)` ➔ `Comp` ➔ `De-Esser (wide-band)` ➔ `Wet` ➔ `Pro-Q (after it's recorded)`
+`Tune` ➔ `Denoiser (with HPF)` ➔ `Pro-Q` ➔ `Comp` ➔ `De-Esser (wide-band)` ➔ `Wet` 
 
 **BEAT:**
 `Pro-Q 3` *(M/S: ~2 kHz dip in Mid for vocals)*
