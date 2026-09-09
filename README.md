@@ -1,6 +1,6 @@
 VOCALS:
 
-tune -> denoiser (with hpf) -> eq/pre-amp -> comp -> deesser -> wet -> graphic eq (after the tracking is done)
+tune -> denoiser (with hpf) -> eq/pre-amp -> comp -> deesser -> wet (wide-band) -> graphic eq (after the tracking is done)
 
 MASTER:
 
