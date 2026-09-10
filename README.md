@@ -1,5 +1,5 @@
 **VOCALS:**
-`Tune` ➔ `Denoiser` ➔ `Expander` ➔ `EQ` ➔ `Comp` ➔ `De-Esser (wide-band)` ➔ `Wet` ➔ `Glue FX (after the track is recorded)`
+`Tune` ➔ `Denoiser` ➔ `Expander` ➔ `EQ` ➔ `Comp` ➔ `De-Esser (wide-band)` ➔ `Wet` ➔ `Glue FX`
 
 **BEAT:**
 `Pro-Q` *(M/S: ~2 kHz dip in Mid for vocals)*
