@@ -1,8 +1,8 @@
 **VOCALS:**
-`Tune` ➔ `Denoiser (with HPF)` ➔ `Pro-Q` ➔ `Comp` ➔ `De-Esser (wide-band)` ➔ `Wet` 
+`Tune` ➔ `Denoiser (with HPF)` ➔ `Pro-Q` ➔ `Comp` ➔ `De-Esser (wide-band)` ➔ `Wet` ➔ `Pro-Q (after the recording is done`
 
 **BEAT:**
-`Pro-Q 3` *(M/S: ~2 kHz dip in Mid for vocals)*
+`Pro-Q` *(M/S: ~2 kHz dip in Mid for vocals)*
 
 **MASTER:**
 `Ozone Imager (under 150 hz mono)` ➔ `The God Particle`
