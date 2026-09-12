@@ -22,3 +22,5 @@ The God Particle
 UAD Free
 
 Izotope Ozone
+
+Antares Auto-Tune Bundle (avox sibyl, artist)
