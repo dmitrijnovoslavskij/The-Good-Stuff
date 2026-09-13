@@ -16,4 +16,4 @@ The God Particle
 
 Izotope Ozone
 
-Antares Auto-Tune Bundle (avox sibyl, artist)
+Antares Auto-Tune Bundle
