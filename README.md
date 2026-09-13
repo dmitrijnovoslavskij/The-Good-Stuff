@@ -1,5 +1,5 @@
 **VOCALS:**
-`Tune` ➔ `Denoiser/Gate/Expander` ➔ `Comp` ➔ `De-Esser (split-band)` ➔ `Wet`
+`Tune` ➔ `Denoiser/Gate/Expander` ➔ `Comp` ➔ `De-Esser (split-band)` ➔ `Wet` ➔ `EQ`
 
 **BEAT:**
 `Pro-Q` *(M/S: ~2 kHz dip in Mid for vocals)*
