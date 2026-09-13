@@ -16,4 +16,4 @@ The God Particle
 
 Izotope Ozone
 
-Antares Auto-Tune Bundle
+Bertom Denoiser Classic
