@@ -1,5 +1,5 @@
 **VOCALS:**
-`Tune` ➔ `Denoiser/Gate/Expander` ➔ `Multiband Comp` ➔ `EQ` ➔ `Saturation` ➔ `Comp` ➔ `De-Esser (split-band)` ➔ `Wet` 
+`Tune` ➔ `Denoiser/Gate/Expander` ➔ `EQ` ➔ `Saturation` ➔ `Comp` ➔ `De-Esser (split-band)` ➔ `Wet` 
 
 **MASTER:**
 `Ozone Imager (under 150 hz mono)` ➔ `The God Particle`
