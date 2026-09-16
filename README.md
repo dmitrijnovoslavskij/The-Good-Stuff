@@ -2,8 +2,10 @@
 
 
 **MASTER:**
-`Ozone Imager (under 150 hz mono)` ➔ `The God Particle`
+ `The God Particle`
 
+**BEAT:**
+`Ozone Imager (under 150 hz mono)`
 `*If you put an EQ on the beat, make sure it is in Natural Phase*`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
