@@ -16,3 +16,5 @@ The God Particle
 Izotope Ozone
 
 Bertom Denoiser Classic
+
+Izotope RX
