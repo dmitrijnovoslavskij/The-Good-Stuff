@@ -1,5 +1,5 @@
+<img width="165" height="188" alt="Screenshot 2026-09-18 at 03 31 21" src="https://github.com/user-attachments/assets/f5484869-8995-4699-b22e-d4a8ba2d4817" />
 
-<img width="169" height="176" alt="Screenshot 2026-09-17 at 22 12 10" src="https://github.com/user-attachments/assets/c41ee3fc-87ba-4363-b556-04623fdee8e4" />
 
 **MASTER:**
  `The God Particle`
