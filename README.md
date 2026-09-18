@@ -4,13 +4,13 @@
 **MASTER:**
  `The God Particle`
 
-**BEAT:**
-`Ozone Imager (under 150 hz mono)`
-`*If you put an EQ on the beat, make sure it is in Natural Phase*`
+**BEAT BUSS:**
+`GMonoBass (under 150 hz mono)`
+`*If you put an EQ on the beat buss, make sure it is in Natural Phase*`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fabfilter Bundle
+Auto Tune Pro 11
 
 Waves Ultimate
 
@@ -18,8 +18,6 @@ Vocal Menace
 
 The God Particle
 
-Izotope Ozone
+GMonoBass
 
 Bertom Denoiser Classic
-
-Izotope RX
