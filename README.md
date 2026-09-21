@@ -18,6 +18,4 @@ The God Particle
 
 GMonoBass
 
-Fabfilter bundle
-
 Xpand
