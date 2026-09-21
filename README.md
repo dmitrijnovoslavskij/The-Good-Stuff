@@ -1,4 +1,5 @@
-<img width="120" height="126" alt="image" src="https://github.com/user-attachments/assets/d58705ad-e02c-4a4b-a708-583edf8ae07f" />
+<img width="156" height="128" alt="image" src="https://github.com/user-attachments/assets/9a88fe03-a8ec-44d0-8058-0c577af1a563" />
+
 
 **MASTER:**
  `The God Particle`
