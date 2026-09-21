@@ -25,3 +25,5 @@ Bertom Denoiser Classic
 Fabfilter bundle
 
 Xpand
+
+VMR
