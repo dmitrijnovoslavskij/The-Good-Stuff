@@ -29,8 +29,6 @@ LANDR VoxTune
 
 creepy piano 3 lite
 
-LANDR mastering plugin pro
-
 Waves Ultimate
 
 Fabfilter Bundle
