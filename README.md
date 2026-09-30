@@ -35,8 +35,6 @@ Fabfilter Bundle
 
 Softube Bundle
 
-Auto-Tune Pro 11
-
 Auto-Tune Artist
 
 SSL 4K Bundle
