@@ -43,4 +43,6 @@ SSL 4K Bundle
 
 eiosis e²DEESSER
 
+Bertom Denoiser Classic
+
 PlugOff
