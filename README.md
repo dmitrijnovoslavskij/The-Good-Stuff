@@ -1,7 +1,5 @@
 
-Reaper for Mix&Master
-
-FL Studio for Beats
+FL Studio 26+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -13,19 +11,13 @@ GMonoBass
 
 Xpand
 
-ANINA CRQL
+Electra
 
-EXOAudio Color
+ANINA CRQL
 
 CableGuys HalfTime
 
-Lex Luger/Metro Boomin drumkit
-
-soothe2
-
-LANDR VoxTune
-
-13x audio AURORA
+Metro Boomin drumkit
 
 creepy piano 3 lite
 
@@ -33,14 +25,8 @@ Waves Ultimate
 
 Fabfilter Bundle
 
-Softube Bundle
+Softube CL-1B
 
 Auto-Tune Artist
-
-SSL 4K Bundle
-
-eiosis e²DEESSER
-
-Bertom Denoiser Classic
 
 PlugOff
