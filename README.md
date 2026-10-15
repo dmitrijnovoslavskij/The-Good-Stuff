@@ -1,6 +1,4 @@
-Auto-Tune Artist (modern) -> c1 gate (Expander) -> Comp (any) -> Pro-Q -> Waves Deesser -> Vocal Menace (Reverb, Delay, Ducking)
-Auto-Tune Artist (modern) -> c1 gate (Expander) -> Comp (any) -> Pro-Q -> Waves Deesser -> Vocal Menace (Reverb, Delay, Ducking) -> Crazy HPF -> Waves Doubler 4 (disabled center)
-
+Tune -> (Denoiser) -> Expander -> (Gate) -> Comp -> EQ -> De-esser -> Space Combine -> Doubling Chain (HPF -> Doubler (no center))
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 FL Studio 26+
@@ -32,5 +30,9 @@ Fabfilter Bundle
 Softube CL-1B
 
 Auto-Tune Artist
+
+Bertom Denoiser Pro
+
+Valhalla Bundle
 
 PlugOff
