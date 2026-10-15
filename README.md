@@ -1,3 +1,7 @@
+Auto-Tune Artist (modern) -> c1 gate (Expander) -> Comp (any) -> Pro-Q -> Waves Deesser -> Vocal Menace (Reverb, Delay, Ducking)
+Auto-Tune Artist (modern) -> c1 gate (Expander) -> Comp (any) -> Pro-Q -> Waves Deesser -> Vocal Menace (Reverb, Delay, Ducking) -> Crazy HPF -> Waves Doubler 4 (disabled center)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 FL Studio 26+
 
