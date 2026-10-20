@@ -35,4 +35,6 @@ Bertom Denoiser Pro
 
 Valhalla Bundle
 
+Xvox Pro Nuro Audio
+
 PlugOff
