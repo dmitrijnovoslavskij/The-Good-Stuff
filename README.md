@@ -7,6 +7,8 @@ FL Studio 26+
 
 Vocal Menace
 
+IQ Reverb
+
 The God Particle
 
 GMonoBass
@@ -30,6 +32,8 @@ Fabfilter Bundle
 Softube CL-1B
 
 Auto-Tune Artist
+
+Auto-Key
 
 Bertom Denoiser Pro
 
