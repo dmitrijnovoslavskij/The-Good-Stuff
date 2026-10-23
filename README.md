@@ -5,16 +5,16 @@ FL Studio 26+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Waves Ultimate
+Waves Ultimate (free if you know where)
 
-Bertom Denoiser Pro
+Bertom Denoiser Pro (free)
 
-GMonoBass
+GMonoBass (free)
 
-Anina CRQL
+Anina CRQL (free)
 
-Halftime
+Halftime (free if you know where)
 
-Xpand
+Xpand (free if you know where)
 
-Electra
+Electra (free if you know where)
