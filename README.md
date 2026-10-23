@@ -7,11 +7,11 @@ FL Studio 26+
 
 Waves Ultimate
 
-Fabfilter Pro-Q 4
-
-Antares Auto-Tune (any)
-
 Xvox Pro
+
+SSL Native Channel Strip 2
+
+Fabfilter Pro-Q 4
 
 Bertom Denoiser Pro
 
@@ -20,5 +20,3 @@ The God Particle by Cradle
 GMonoBass
 
 Anina CRQL
-
-PlugOff
