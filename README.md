@@ -5,40 +5,20 @@ FL Studio 26+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Vocal Menace
-
-IQ Reverb
-
-The God Particle
-
-GMonoBass
-
-Xpand
-
-Electra
-
-ANINA CRQL
-
-CableGuys HalfTime
-
-Metro Boomin drumkit
-
-creepy piano 3 lite
-
 Waves Ultimate
 
-Fabfilter Bundle
+Fabfilter Pro-Q 4
 
-Softube CL-1B
+Antares Auto-Tune (any)
 
-Auto-Tune Artist
-
-Auto-Key
+Xvox Pro
 
 Bertom Denoiser Pro
 
-Valhalla Bundle
+The God Particle by Cradle
 
-Xvox Pro Nuro Audio
+GMonoBass
+
+Anina CRQL
 
 PlugOff
