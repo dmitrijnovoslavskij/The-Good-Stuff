@@ -14,3 +14,7 @@ GMonoBass
 Anina CRQL
 
 Halftime
+
+Xpand
+
+Electra
